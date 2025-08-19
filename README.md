@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/Tharunk043/LeetCode/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/Tharunk043/LeetCode/tree/master/0078-subsets) |
+| [0120-triangle](https://github.com/Tharunk043/LeetCode/tree/master/0120-triangle) |
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Tharunk043/LeetCode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/Tharunk043/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/Tharunk043/LeetCode/tree/master/1013-fibonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/1250-longest-common-subsequence) |
