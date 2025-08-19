@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/Tharunk043/LeetCode/tree/master/0049-group-anagrams) |
+| [0071-simplify-path](https://github.com/Tharunk043/LeetCode/tree/master/0071-simplify-path) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1170-shortest-common-supersequence](https://github.com/Tharunk043/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/1250-longest-common-subsequence) |
@@ -118,4 +119,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Tharunk043/LeetCode/tree/master/0062-unique-paths) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Tharunk043/LeetCode/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
