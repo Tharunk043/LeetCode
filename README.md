@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0073-set-matrix-zeroes) |
+| [0078-subsets](https://github.com/Tharunk043/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Tharunk043/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 ## Divide and Conquer
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Tharunk043/LeetCode/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
