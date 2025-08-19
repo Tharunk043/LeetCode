@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 ## Matrix
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Math
 |  |
 | ------- |
@@ -69,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tharunk043/LeetCode/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
 ## Divide and Conquer
 |  |
@@ -100,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1170-shortest-common-supersequence](https://github.com/Tharunk043/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/1250-longest-common-subsequence) |
+| [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 ## Greedy
 |  |
 | ------- |
