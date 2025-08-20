@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
+| [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tharunk043/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Tharunk043/LeetCode/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
+| [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Prefix Sum
 |  |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1216-print-zero-even-odd](https://github.com/Tharunk043/LeetCode/tree/master/1216-print-zero-even-odd) |
+## Simulation
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
