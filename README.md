@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharunk043/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Tharunk043/LeetCode/tree/master/0164-maximum-gap) |
+| [0198-house-robber](https://github.com/Tharunk043/LeetCode/tree/master/0198-house-robber) |
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Tharunk043/LeetCode/tree/master/0120-triangle) |
 | [0152-maximum-product-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0198-house-robber](https://github.com/Tharunk043/LeetCode/tree/master/0198-house-robber) |
 | [1013-fibonacci-number](https://github.com/Tharunk043/LeetCode/tree/master/1013-fibonacci-number) |
 | [1170-shortest-common-supersequence](https://github.com/Tharunk043/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/1250-longest-common-subsequence) |
