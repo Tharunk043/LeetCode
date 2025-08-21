@@ -215,11 +215,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tharunk043/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tharunk043/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tharunk043/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -230,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tharunk043/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tharunk043/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Depth-First Search
 |  |
@@ -241,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0130-surrounded-regions](https://github.com/Tharunk043/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Tharunk043/LeetCode/tree/master/0133-clone-graph) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
@@ -250,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tharunk043/LeetCode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Tharunk043/LeetCode/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/Tharunk043/LeetCode/tree/master/0322-coin-change) |
+| [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
 ## Union Find
 |  |
