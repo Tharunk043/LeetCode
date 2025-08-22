@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tharunk043/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/Tharunk043/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Tharunk043/LeetCode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/Tharunk043/LeetCode/tree/master/0057-insert-interval) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Tharunk043/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/Tharunk043/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Tharunk043/LeetCode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/0115-distinct-subsequences) |
@@ -339,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Tharunk043/LeetCode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
