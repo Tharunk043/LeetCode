@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Tharunk043/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1319-unique-number-of-occurrences](https://github.com/Tharunk043/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1344-maximum-equal-frequency](https://github.com/Tharunk043/LeetCode/tree/master/1344-maximum-equal-frequency) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1319-unique-number-of-occurrences](https://github.com/Tharunk043/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1344-maximum-equal-frequency](https://github.com/Tharunk043/LeetCode/tree/master/1344-maximum-equal-frequency) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Tharunk043/LeetCode/tree/master/1848-sum-of-unique-elements) |
