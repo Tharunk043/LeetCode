@@ -257,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0722-remove-comments](https://github.com/Tharunk043/LeetCode/tree/master/0722-remove-comments) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1078-remove-outermost-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tharunk043/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/Tharunk043/LeetCode/tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/1250-longest-common-subsequence) |
 | [1297-maximum-number-of-balloons](https://github.com/Tharunk043/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Tharunk043/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Tharunk043/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/1078-remove-outermost-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tharunk043/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 ## Linked List
 |  |
