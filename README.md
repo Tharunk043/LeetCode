@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Tharunk043/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tharunk043/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Tharunk043/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tharunk043/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -376,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tharunk043/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
+| [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Monotonic Stack
 |  |
