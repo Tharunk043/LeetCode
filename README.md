@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0954-maximum-sum-circular-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [1299-k-concatenation-maximum-sum](https://github.com/Tharunk043/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Tharunk043/LeetCode/tree/master/1319-unique-number-of-occurrences) |
+| [1331-path-with-maximum-gold](https://github.com/Tharunk043/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1344-maximum-equal-frequency](https://github.com/Tharunk043/LeetCode/tree/master/1344-maximum-equal-frequency) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
+| [1331-path-with-maximum-gold](https://github.com/Tharunk043/LeetCode/tree/master/1331-path-with-maximum-gold) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Tharunk043/LeetCode/tree/master/1677-matrix-diagonal-sum) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/Tharunk043/LeetCode/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Tharunk043/LeetCode/tree/master/0113-path-sum-ii) |
 | [0494-target-sum](https://github.com/Tharunk043/LeetCode/tree/master/0494-target-sum) |
+| [1331-path-with-maximum-gold](https://github.com/Tharunk043/LeetCode/tree/master/1331-path-with-maximum-gold) |
 ## String
 |  |
 | ------- |
