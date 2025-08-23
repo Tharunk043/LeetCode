@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Tharunk043/LeetCode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/Tharunk043/LeetCode/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
+| [0139-word-break](https://github.com/Tharunk043/LeetCode/tree/master/0139-word-break) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharunk043/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0152-maximum-product-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0164-maximum-gap](https://github.com/Tharunk043/LeetCode/tree/master/0164-maximum-gap) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Tharunk043/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/Tharunk043/LeetCode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/Tharunk043/LeetCode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/Tharunk043/LeetCode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/Tharunk043/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tharunk043/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Tharunk043/LeetCode/tree/master/0146-lru-cache) |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Tharunk043/LeetCode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Tharunk043/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0139-word-break](https://github.com/Tharunk043/LeetCode/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Tharunk043/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tharunk043/LeetCode/tree/master/0213-house-robber-ii) |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Tharunk043/LeetCode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/Tharunk043/LeetCode/tree/master/0139-word-break) |
 | [1013-fibonacci-number](https://github.com/Tharunk043/LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
@@ -231,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Tharunk043/LeetCode/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Tharunk043/LeetCode/tree/master/0071-simplify-path) |
 | [0115-distinct-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0139-word-break](https://github.com/Tharunk043/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0166-fraction-to-recurring-decimal](https://github.com/Tharunk043/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0168-excel-sheet-column-title](https://github.com/Tharunk043/LeetCode/tree/master/0168-excel-sheet-column-title) |
@@ -437,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Tharunk043/LeetCode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/Tharunk043/LeetCode/tree/master/0139-word-break) |
 ## Enumeration
 |  |
 | ------- |
