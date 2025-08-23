@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1646-kth-missing-positive-number](https://github.com/Tharunk043/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [1677-matrix-diagonal-sum](https://github.com/Tharunk043/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tharunk043/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1677-matrix-diagonal-sum](https://github.com/Tharunk043/LeetCode/tree/master/1677-matrix-diagonal-sum) |
+| [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tharunk043/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
