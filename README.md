@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/Tharunk043/LeetCode/tree/master/1677-matrix-diagonal-sum) |
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1848-sum-of-unique-elements](https://github.com/Tharunk043/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tharunk043/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
 ## Math
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1848-sum-of-unique-elements](https://github.com/Tharunk043/LeetCode/tree/master/1848-sum-of-unique-elements) |
+| [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Tharunk043/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Backtracking
