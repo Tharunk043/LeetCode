@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Tharunk043/LeetCode/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Tharunk043/LeetCode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Tharunk043/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharunk043/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Tharunk043/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0445-add-two-numbers-ii](https://github.com/Tharunk043/LeetCode/tree/master/0445-add-two-numbers-ii) |
@@ -345,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tharunk043/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tharunk043/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharunk043/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tharunk043/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/Tharunk043/LeetCode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Tharunk043/LeetCode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharunk043/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tharunk043/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -368,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/Tharunk043/LeetCode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/Tharunk043/LeetCode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharunk043/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tharunk043/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
@@ -413,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/Tharunk043/LeetCode/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Tharunk043/LeetCode/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Tharunk043/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -518,4 +523,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/Tharunk043/LeetCode/tree/master/0149-max-points-on-a-line) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Tharunk043/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
