@@ -330,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Tharunk043/LeetCode/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Tharunk043/LeetCode/tree/master/0627-swap-salary) |
 | [1136-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/Tharunk043/LeetCode/tree/master/1136-actors-and-directors-who-cooperated-at-least-three-times) |
+| [1338-queries-quality-and-percentage](https://github.com/Tharunk043/LeetCode/tree/master/1338-queries-quality-and-percentage) |
 ## Sliding Window
 |  |
 | ------- |
