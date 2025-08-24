@@ -16,6 +16,7 @@ class Solution {
             if(vowels.contains(s.charAt(i-k)) ) windowv--;
             if(vowels.contains(s.charAt(i))) windowv++;
             maxv = Math.max(windowv,maxv);
+            if(maxv==k) break;
         }
         return maxv;
 
