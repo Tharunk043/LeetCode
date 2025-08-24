@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
+| [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tharunk043/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/Tharunk043/LeetCode/tree/master/2383-add-two-integers) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tharunk043/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
+| [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Tharunk043/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 ## Dynamic Programming
 |  |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
 ## Counting
 |  |
 | ------- |
