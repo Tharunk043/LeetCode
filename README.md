@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tharunk043/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tharunk043/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Tharunk043/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tharunk043/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/Tharunk043/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Tharunk043/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Tharunk043/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
+| [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tharunk043/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Tharunk043/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tharunk043/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Tharunk043/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
