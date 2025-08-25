@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Tharunk043/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Tharunk043/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
+| [0233-number-of-digit-one](https://github.com/Tharunk043/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [0445-add-two-numbers-ii](https://github.com/Tharunk043/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [1013-fibonacci-number](https://github.com/Tharunk043/LeetCode/tree/master/1013-fibonacci-number) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Tharunk043/LeetCode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Tharunk043/LeetCode/tree/master/0213-house-robber-ii) |
+| [0233-number-of-digit-one](https://github.com/Tharunk043/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Tharunk043/LeetCode/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0474-ones-and-zeroes) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Tharunk043/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Tharunk043/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tharunk043/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0233-number-of-digit-one](https://github.com/Tharunk043/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [1013-fibonacci-number](https://github.com/Tharunk043/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
