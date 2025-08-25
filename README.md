@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0474-ones-and-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0474-ones-and-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Tharunk043/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tharunk043/LeetCode/tree/master/0494-target-sum) |
+| [0498-diagonal-traverse](https://github.com/Tharunk043/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Tharunk043/LeetCode/tree/master/0546-remove-boxes) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0130-surrounded-regions](https://github.com/Tharunk043/LeetCode/tree/master/0130-surrounded-regions) |
+| [0498-diagonal-traverse](https://github.com/Tharunk043/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
 | [0777-toeplitz-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0777-toeplitz-matrix) |
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Tharunk043/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tharunk043/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tharunk043/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
