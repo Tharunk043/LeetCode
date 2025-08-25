@@ -313,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2510-maximum-deletions-on-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2510-maximum-deletions-on-a-string) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tharunk043/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
+| [3396-valid-word](https://github.com/Tharunk043/LeetCode/tree/master/3396-valid-word) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
 ## Greedy
