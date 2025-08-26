@@ -554,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1541-top-travellers](https://github.com/Tharunk043/LeetCode/tree/master/1541-top-travellers) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Tharunk043/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Tharunk043/LeetCode/tree/master/1827-invalid-tweets) |
+| [1877-find-followers-count](https://github.com/Tharunk043/LeetCode/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Tharunk043/LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Sliding Window
 |  |
