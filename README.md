@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Tharunk043/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/Tharunk043/LeetCode/tree/master/0494-target-sum) |
+| [0495-teemo-attacking](https://github.com/Tharunk043/LeetCode/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Tharunk043/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
@@ -644,6 +645,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/Tharunk043/LeetCode/tree/master/0495-teemo-attacking) |
 | [0498-diagonal-traverse](https://github.com/Tharunk043/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tharunk043/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
