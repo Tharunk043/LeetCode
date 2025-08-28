@@ -340,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Tharunk043/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/Tharunk043/LeetCode/tree/master/0472-concatenated-words) |
 | [0474-ones-and-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0474-ones-and-zeroes) |
+| [0481-magical-string](https://github.com/Tharunk043/LeetCode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Tharunk043/LeetCode/tree/master/0482-license-key-formatting) |
 | [0722-remove-comments](https://github.com/Tharunk043/LeetCode/tree/master/0722-remove-comments) |
 | [0749-shortest-completing-word](https://github.com/Tharunk043/LeetCode/tree/master/0749-shortest-completing-word) |
@@ -396,6 +397,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Tharunk043/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0481-magical-string](https://github.com/Tharunk043/LeetCode/tree/master/0481-magical-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tharunk043/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
