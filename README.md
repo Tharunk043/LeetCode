@@ -233,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/Tharunk043/LeetCode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Tharunk043/LeetCode/tree/master/0338-counting-bits) |
 | [0466-count-the-repetitions](https://github.com/Tharunk043/LeetCode/tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/Tharunk043/LeetCode/tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/Tharunk043/LeetCode/tree/master/0472-concatenated-words) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Tharunk043/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/Tharunk043/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Tharunk043/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Tharunk043/LeetCode/tree/master/0476-number-complement) |
 | [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
