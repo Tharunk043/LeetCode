@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [0907-koko-eating-bananas](https://github.com/Tharunk043/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
 | [1293-three-consecutive-odds](https://github.com/Tharunk043/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/Tharunk043/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
 | [1319-unique-number-of-occurrences](https://github.com/Tharunk043/LeetCode/tree/master/1319-unique-number-of-occurrences) |
@@ -278,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/Tharunk043/LeetCode/tree/master/0907-koko-eating-bananas) |
+| [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
 | [1646-kth-missing-positive-number](https://github.com/Tharunk043/LeetCode/tree/master/1646-kth-missing-positive-number) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/Tharunk043/LeetCode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
@@ -556,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Tharunk043/LeetCode/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Tharunk043/LeetCode/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Tharunk043/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+| [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -706,4 +709,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Tharunk043/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
+## Segment Tree
+|  |
+| ------- |
+| [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
 <!---LeetCode Topics End-->
