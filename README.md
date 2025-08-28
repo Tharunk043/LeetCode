@@ -519,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tharunk043/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Tharunk043/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Tharunk043/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tharunk043/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1040-maximum-binary-tree-ii](https://github.com/Tharunk043/LeetCode/tree/master/1040-maximum-binary-tree-ii) |
@@ -576,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Tharunk043/LeetCode/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/Tharunk043/LeetCode/tree/master/0563-binary-tree-tilt) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Tharunk043/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tharunk043/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [0975-range-sum-of-bst](https://github.com/Tharunk043/LeetCode/tree/master/0975-range-sum-of-bst) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Tharunk043/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
@@ -593,6 +595,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Tharunk043/LeetCode/tree/master/0463-island-perimeter) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Tharunk043/LeetCode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
+| [0774-maximum-depth-of-n-ary-tree](https://github.com/Tharunk043/LeetCode/tree/master/0774-maximum-depth-of-n-ary-tree) |
 | [0799-minimum-distance-between-bst-nodes](https://github.com/Tharunk043/LeetCode/tree/master/0799-minimum-distance-between-bst-nodes) |
 | [1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree](https://github.com/Tharunk043/LeetCode/tree/master/1498-find-a-corresponding-node-of-a-binary-tree-in-a-clone-of-that-tree) |
 ## Union Find
