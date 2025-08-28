@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Tharunk043/LeetCode/tree/master/0546-remove-boxes) |
 | [0566-reshape-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0566-reshape-the-matrix) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Tharunk043/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0643-maximum-average-subarray-i](https://github.com/Tharunk043/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0722-remove-comments](https://github.com/Tharunk043/LeetCode/tree/master/0722-remove-comments) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tharunk043/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Tharunk043/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0749-shortest-completing-word](https://github.com/Tharunk043/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/Tharunk043/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
@@ -372,6 +374,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0481-magical-string](https://github.com/Tharunk043/LeetCode/tree/master/0481-magical-string) |
 | [0482-license-key-formatting](https://github.com/Tharunk043/LeetCode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/Tharunk043/LeetCode/tree/master/0520-detect-capital) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/Tharunk043/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0722-remove-comments](https://github.com/Tharunk043/LeetCode/tree/master/0722-remove-comments) |
 | [0749-shortest-completing-word](https://github.com/Tharunk043/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0812-rotate-string](https://github.com/Tharunk043/LeetCode/tree/master/0812-rotate-string) |
