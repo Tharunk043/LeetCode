@@ -375,6 +375,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0299-bulls-and-cows](https://github.com/Tharunk043/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0316-remove-duplicate-letters](https://github.com/Tharunk043/LeetCode/tree/master/0316-remove-duplicate-letters) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Tharunk043/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0466-count-the-repetitions](https://github.com/Tharunk043/LeetCode/tree/master/0466-count-the-repetitions) |
@@ -445,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0321-create-maximum-number](https://github.com/Tharunk043/LeetCode/tree/master/0321-create-maximum-number) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Tharunk043/LeetCode/tree/master/0481-magical-string) |
 | [1454-remove-palindromic-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
