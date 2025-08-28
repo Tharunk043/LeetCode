@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tharunk043/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Tharunk043/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tharunk043/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tharunk043/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Tharunk043/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Prefix Sum
@@ -657,6 +659,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Tharunk043/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3708-zigzag-grid-traversal-with-skip](https://github.com/Tharunk043/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 ## Monotonic Stack
 |  |
 | ------- |
