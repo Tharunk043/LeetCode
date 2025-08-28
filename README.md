@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Tharunk043/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tharunk043/LeetCode/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0722-remove-comments](https://github.com/Tharunk043/LeetCode/tree/master/0722-remove-comments) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tharunk043/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tharunk043/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tharunk043/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [0749-shortest-completing-word](https://github.com/Tharunk043/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0822-unique-morse-code-words](https://github.com/Tharunk043/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [0461-hamming-distance](https://github.com/Tharunk043/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Tharunk043/LeetCode/tree/master/0476-number-complement) |
+| [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
@@ -321,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/Tharunk043/LeetCode/tree/master/0472-concatenated-words) |
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Tharunk043/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
