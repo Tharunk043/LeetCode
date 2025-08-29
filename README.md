@@ -277,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/Tharunk043/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/Tharunk043/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tharunk043/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0233-number-of-digit-one](https://github.com/Tharunk043/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -507,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Tharunk043/LeetCode/tree/master/0147-insertion-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Tharunk043/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Tharunk043/LeetCode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Tharunk043/LeetCode/tree/master/0445-add-two-numbers-ii) |
