@@ -661,6 +661,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1390-average-selling-price](https://github.com/Tharunk043/LeetCode/tree/master/1390-average-selling-price) |
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Tharunk043/LeetCode/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1541-top-travellers](https://github.com/Tharunk043/LeetCode/tree/master/1541-top-travellers) |
+| [1625-group-sold-products-by-the-date](https://github.com/Tharunk043/LeetCode/tree/master/1625-group-sold-products-by-the-date) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Tharunk043/LeetCode/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1827-invalid-tweets](https://github.com/Tharunk043/LeetCode/tree/master/1827-invalid-tweets) |
 | [1877-find-followers-count](https://github.com/Tharunk043/LeetCode/tree/master/1877-find-followers-count) |
