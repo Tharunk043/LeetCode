@@ -101,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tharunk043/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Tharunk043/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Tharunk043/LeetCode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2486-most-frequent-even-element](https://github.com/Tharunk043/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/Tharunk043/LeetCode/tree/master/2727-number-of-senior-citizens) |
@@ -159,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Tharunk043/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/Tharunk043/LeetCode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Tharunk043/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2486-most-frequent-even-element](https://github.com/Tharunk043/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tharunk043/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/Tharunk043/LeetCode/tree/master/1848-sum-of-unique-elements) |
 | [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Tharunk043/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
+| [2486-most-frequent-even-element](https://github.com/Tharunk043/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Backtracking
