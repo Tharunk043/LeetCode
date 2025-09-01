@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Tharunk043/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tharunk043/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tharunk043/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
@@ -193,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
 ## Math
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Tharunk043/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
 | [1646-kth-missing-positive-number](https://github.com/Tharunk043/LeetCode/tree/master/1646-kth-missing-positive-number) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/Tharunk043/LeetCode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 ## Sorting
@@ -360,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Tharunk043/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
 | [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -466,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tharunk043/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tharunk043/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
@@ -724,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Tharunk043/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tharunk043/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 ## Rolling Hash
 |  |
 | ------- |
