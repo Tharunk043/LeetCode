@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/Tharunk043/LeetCode/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 | [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
+| [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tharunk043/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tharunk043/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
+| [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
 ## Matrix
 |  |
 | ------- |
@@ -809,6 +811,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1325-path-with-maximum-probability](https://github.com/Tharunk043/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tharunk043/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Tharunk043/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
+| [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
 ## Shortest Path
 |  |
 | ------- |
@@ -835,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0220-contains-duplicate-iii](https://github.com/Tharunk043/LeetCode/tree/master/0220-contains-duplicate-iii) |
+| [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
 ## Game Theory
 |  |
 | ------- |
