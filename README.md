@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 | [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
 | ------- |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Tharunk043/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
 |  |
 | ------- |
@@ -464,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3396-valid-word](https://github.com/Tharunk043/LeetCode/tree/master/3396-valid-word) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
 | ------- |
