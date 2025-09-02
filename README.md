@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tharunk043/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0749-shortest-completing-word](https://github.com/Tharunk043/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [0822-unique-morse-code-words](https://github.com/Tharunk043/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/Tharunk043/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -371,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Tharunk043/LeetCode/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
+| [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0229-majority-element-ii](https://github.com/Tharunk043/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Tharunk043/LeetCode/tree/master/0299-bulls-and-cows) |
+| [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/Tharunk043/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Tharunk043/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -438,6 +441,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tharunk043/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0722-remove-comments](https://github.com/Tharunk043/LeetCode/tree/master/0722-remove-comments) |
 | [0749-shortest-completing-word](https://github.com/Tharunk043/LeetCode/tree/master/0749-shortest-completing-word) |
+| [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [0812-rotate-string](https://github.com/Tharunk043/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Tharunk043/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
@@ -483,6 +487,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0321-create-maximum-number](https://github.com/Tharunk043/LeetCode/tree/master/0321-create-maximum-number) |
 | [0561-array-partition](https://github.com/Tharunk043/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Tharunk043/LeetCode/tree/master/0605-can-place-flowers) |
+| [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tharunk043/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [1961-maximum-ice-cream-bars](https://github.com/Tharunk043/LeetCode/tree/master/1961-maximum-ice-cream-bars) |
@@ -833,6 +838,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tharunk043/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0506-relative-ranks](https://github.com/Tharunk043/LeetCode/tree/master/0506-relative-ranks) |
+| [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [1325-path-with-maximum-probability](https://github.com/Tharunk043/LeetCode/tree/master/1325-path-with-maximum-probability) |
 | [1917-maximum-average-pass-ratio](https://github.com/Tharunk043/LeetCode/tree/master/1917-maximum-average-pass-ratio) |
 | [2422-query-kth-smallest-trimmed-number](https://github.com/Tharunk043/LeetCode/tree/master/2422-query-kth-smallest-trimmed-number) |
