@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tharunk043/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tharunk043/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
 ## Divide and Conquer
 |  |
@@ -828,6 +829,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1689-detect-pattern-of-length-m-repeated-k-or-more-times](https://github.com/Tharunk043/LeetCode/tree/master/1689-detect-pattern-of-length-m-repeated-k-or-more-times) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tharunk043/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2507-number-of-common-factors](https://github.com/Tharunk043/LeetCode/tree/master/2507-number-of-common-factors) |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tharunk043/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3221-find-the-peaks](https://github.com/Tharunk043/LeetCode/tree/master/3221-find-the-peaks) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tharunk043/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tharunk043/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -916,4 +918,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/Tharunk043/LeetCode/tree/master/2507-number-of-common-factors) |
+## Brainteaser
+|  |
+| ------- |
+| [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tharunk043/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 <!---LeetCode Topics End-->
