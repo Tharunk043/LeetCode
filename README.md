@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tharunk043/LeetCode/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tharunk043/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0321-create-maximum-number](https://github.com/Tharunk043/LeetCode/tree/master/0321-create-maximum-number) |
 | [0322-coin-change](https://github.com/Tharunk043/LeetCode/tree/master/0322-coin-change) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Tharunk043/LeetCode/tree/master/0190-reverse-bits) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tharunk043/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tharunk043/LeetCode/tree/master/0338-counting-bits) |
 | [0461-hamming-distance](https://github.com/Tharunk043/LeetCode/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/Tharunk043/LeetCode/tree/master/0476-number-complement) |
@@ -359,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tharunk043/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Tharunk043/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Tharunk043/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Tharunk043/LeetCode/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
@@ -528,6 +531,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Tharunk043/LeetCode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0165-compare-version-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0165-compare-version-numbers) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
+| [0287-find-the-duplicate-number](https://github.com/Tharunk043/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0321-create-maximum-number](https://github.com/Tharunk043/LeetCode/tree/master/0321-create-maximum-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0392-is-subsequence) |
