@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
 | [2727-number-of-senior-citizens](https://github.com/Tharunk043/LeetCode/tree/master/2727-number-of-senior-citizens) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
+| [2777-find-the-distinct-difference-array](https://github.com/Tharunk043/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tharunk043/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Tharunk043/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/Tharunk043/LeetCode/tree/master/3221-find-the-peaks) |
@@ -180,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tharunk043/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
+| [2777-find-the-distinct-difference-array](https://github.com/Tharunk043/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
