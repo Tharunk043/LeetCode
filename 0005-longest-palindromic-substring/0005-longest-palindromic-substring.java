@@ -1,11 +1,11 @@
 class Solution {
     public String longestPalindrome(String s) {
         String longest = "";
-        for(int i =0 ;i<s.length();i++){
+        for(int i = 0;i<s.length();i++){
             String even = expand(s,i,i);
             String odd = expand(s,i,i+1);
             String curr = even.length()>odd.length()?even:odd;
-            longest =curr.length()>longest.length()?curr:longest;
+            longest = curr.length()>longest.length()?curr:longest;
         }
         return longest;
     }
