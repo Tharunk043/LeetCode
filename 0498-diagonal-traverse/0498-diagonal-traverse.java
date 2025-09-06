@@ -6,9 +6,8 @@ class Solution {
         int r= 0;
         int c= 0;
         int res[] = new int [m*n];
-        int ind =0;
-        while(ind<res.length){
-            res[ind++] = mat[r][c];
+        for(int i = 0;i<res.length;i++){
+            res[i] = mat[r][c];
             if((r+c)%2==0){
                 if(c==n-1){
                     r++;
