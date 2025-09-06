@@ -245,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/Tharunk043/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/Tharunk043/LeetCode/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Tharunk043/LeetCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Tharunk043/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Tharunk043/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Tharunk043/LeetCode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Tharunk043/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Tharunk043/LeetCode/tree/master/0231-power-of-two) |
 | [0233-number-of-digit-one](https://github.com/Tharunk043/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
@@ -347,6 +349,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/Tharunk043/LeetCode/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Tharunk043/LeetCode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Tharunk043/LeetCode/tree/master/0190-reverse-bits) |
+| [0231-power-of-two](https://github.com/Tharunk043/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Tharunk043/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Tharunk043/LeetCode/tree/master/0338-counting-bits) |
