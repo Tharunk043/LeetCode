@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/Tharunk043/LeetCode/tree/master/0279-perfect-squares) |
+| [0326-power-of-three](https://github.com/Tharunk043/LeetCode/tree/master/0326-power-of-three) |
 | [0441-arranging-coins](https://github.com/Tharunk043/LeetCode/tree/master/0441-arranging-coins) |
 | [0445-add-two-numbers-ii](https://github.com/Tharunk043/LeetCode/tree/master/0445-add-two-numbers-ii) |
 | [0507-perfect-number](https://github.com/Tharunk043/LeetCode/tree/master/0507-perfect-number) |
@@ -340,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/Tharunk043/LeetCode/tree/master/0233-number-of-digit-one) |
 | [0234-palindrome-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0241-different-ways-to-add-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0326-power-of-three](https://github.com/Tharunk043/LeetCode/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Tharunk043/LeetCode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Bit Manipulation
