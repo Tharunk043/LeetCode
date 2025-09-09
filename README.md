@@ -320,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tharunk043/LeetCode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Tharunk043/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1764-maximum-repeating-substring](https://github.com/Tharunk043/LeetCode/tree/master/1764-maximum-repeating-substring) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Tharunk043/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2510-maximum-deletions-on-a-string) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
@@ -871,6 +872,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tharunk043/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tharunk043/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2361-calculate-digit-sum-of-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2361-calculate-digit-sum-of-a-string) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Tharunk043/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2606-difference-between-ones-and-zeros-in-row-and-column](https://github.com/Tharunk043/LeetCode/tree/master/2606-difference-between-ones-and-zeros-in-row-and-column) |
 | [2857-total-distance-traveled](https://github.com/Tharunk043/LeetCode/tree/master/2857-total-distance-traveled) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Tharunk043/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
@@ -917,6 +919,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/Tharunk043/LeetCode/tree/master/0239-sliding-window-maximum) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/Tharunk043/LeetCode/tree/master/0969-number-of-recent-calls) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/Tharunk043/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Monotonic Queue
 |  |
 | ------- |
