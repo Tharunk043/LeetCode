@@ -274,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tharunk043/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Tharunk043/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
+| [3462-vowels-game-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Tharunk043/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tharunk043/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Tharunk043/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
@@ -537,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tharunk043/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Tharunk043/LeetCode/tree/master/3194-find-words-containing-character) |
 | [3396-valid-word](https://github.com/Tharunk043/LeetCode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
@@ -976,6 +978,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Game Theory
 |  |
 | ------- |
+| [3462-vowels-game-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3511-find-the-winning-player-in-coin-game](https://github.com/Tharunk043/LeetCode/tree/master/3511-find-the-winning-player-in-coin-game) |
 ## Binary Indexed Tree
 |  |
@@ -1002,4 +1005,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tharunk043/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
+| [3462-vowels-game-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
