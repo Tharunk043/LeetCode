@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Tharunk043/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [0948-sort-an-array](https://github.com/Tharunk043/LeetCode/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
+| [1006-vowel-spellchecker](https://github.com/Tharunk043/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
 | [1293-three-consecutive-odds](https://github.com/Tharunk043/LeetCode/tree/master/1293-three-consecutive-odds) |
 | [1299-k-concatenation-maximum-sum](https://github.com/Tharunk043/LeetCode/tree/master/1299-k-concatenation-maximum-sum) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [0822-unique-morse-code-words](https://github.com/Tharunk043/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
+| [1006-vowel-spellchecker](https://github.com/Tharunk043/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1297-maximum-number-of-balloons](https://github.com/Tharunk043/LeetCode/tree/master/1297-maximum-number-of-balloons) |
 | [1319-unique-number-of-occurrences](https://github.com/Tharunk043/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1344-maximum-equal-frequency](https://github.com/Tharunk043/LeetCode/tree/master/1344-maximum-equal-frequency) |
@@ -506,6 +508,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Tharunk043/LeetCode/tree/master/0812-rotate-string) |
 | [0822-unique-morse-code-words](https://github.com/Tharunk043/LeetCode/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
+| [1006-vowel-spellchecker](https://github.com/Tharunk043/LeetCode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/Tharunk043/LeetCode/tree/master/1078-remove-outermost-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Tharunk043/LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1170-shortest-common-supersequence](https://github.com/Tharunk043/LeetCode/tree/master/1170-shortest-common-supersequence) |
