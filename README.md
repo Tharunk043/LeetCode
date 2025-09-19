@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tharunk043/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Tharunk043/LeetCode/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Tharunk043/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/Tharunk043/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
 | [3678-design-task-manager](https://github.com/Tharunk043/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Tharunk043/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Matrix
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Tharunk043/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+| [3797-design-spreadsheet](https://github.com/Tharunk043/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -569,6 +572,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3462-vowels-game-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
+| [3797-design-spreadsheet](https://github.com/Tharunk043/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Greedy
 |  |
@@ -817,6 +821,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
 | [2429-design-a-food-rating-system](https://github.com/Tharunk043/LeetCode/tree/master/2429-design-a-food-rating-system) |
 | [3678-design-task-manager](https://github.com/Tharunk043/LeetCode/tree/master/3678-design-task-manager) |
+| [3797-design-spreadsheet](https://github.com/Tharunk043/LeetCode/tree/master/3797-design-spreadsheet) |
 ## Doubly-Linked List
 |  |
 | ------- |
