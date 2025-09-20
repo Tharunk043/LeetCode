@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Tharunk043/LeetCode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Tharunk043/LeetCode/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Tharunk043/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Tharunk043/LeetCode/tree/master/0015-3sum) |
 | [0031-next-permutation](https://github.com/Tharunk043/LeetCode/tree/master/0031-next-permutation) |
@@ -583,6 +584,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Tharunk043/LeetCode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/Tharunk043/LeetCode/tree/master/0134-gas-station) |
 | [0316-remove-duplicate-letters](https://github.com/Tharunk043/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0321-create-maximum-number](https://github.com/Tharunk043/LeetCode/tree/master/0321-create-maximum-number) |
@@ -603,6 +605,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Tharunk043/LeetCode/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/Tharunk043/LeetCode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Tharunk043/LeetCode/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Tharunk043/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Tharunk043/LeetCode/tree/master/0031-next-permutation) |
