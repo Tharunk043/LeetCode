@@ -3,7 +3,7 @@ class Solution {
         int maj = nums[0],votes = 1;
         for(int i=1;i<nums.length;i++){
             if(votes==0){
-                votes++;
+                votes=1;
                 maj =nums[i];
             }else if(maj==nums[i]){
                 votes++;
