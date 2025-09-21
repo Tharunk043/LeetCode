@@ -1,6 +1,6 @@
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
-        int p1 = m-1;
+        int p1= m-1;
         int p2 = n-1;
         int p3 = nums1.length-1;
         while(p2>=0){
@@ -9,7 +9,6 @@ class Solution {
             }else{
                 nums1[p3--] = nums2[p2--];
             }
-        }   
-
+        }
     }
 }
