@@ -1,38 +1,33 @@
 class Solution {
     public String fractionToDecimal(int numerator, int denominator) {
-        if (numerator == 0) return "0";
+        if (numerator == 0) return "0";  // If numerator is 0
 
         StringBuilder sb = new StringBuilder();
 
-        // handle sign
+        // Handle sign
         if ((numerator < 0) ^ (denominator < 0)) {
             sb.append("-");
         }
 
-        // convert to long to avoid overflow
+        // Convert to long to avoid overflow (e.g., -2147483648 case)
         long num = Math.abs((long) numerator);
         long den = Math.abs((long) denominator);
 
-        // integer part
+        // Append integer part
         sb.append(num / den);
         long remainder = num % den;
-
-        if (remainder == 0) return sb.toString(); // no fraction
+        if (remainder == 0) return sb.toString();
 
         sb.append(".");
-
-        // map remainder -> position in string
+        // Map to store remainder and its position in result
         Map<Long, Integer> map = new HashMap<>();
 
         while (remainder != 0) {
             if (map.containsKey(remainder)) {
-                // repeating part found
-                int pos = map.get(remainder);
-                sb.insert(pos, "(");
+                sb.insert(map.get(remainder), "(");
                 sb.append(")");
                 break;
             }
-
             map.put(remainder, sb.length());
             remainder *= 10;
             sb.append(remainder / den);
