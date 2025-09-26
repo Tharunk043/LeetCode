@@ -1,12 +1,15 @@
 class Solution {
     public int minimumTotal(List<List<Integer>> triangle) {
-        int height = triangle.size();
-        int[][] dp=new  int[height+1][height+1];
-        for(int level=height-1;level>=0;level--){
-            for(int i = 0;i<=level;i++){
-                dp[level][i] = triangle.get(level).get(i)+Math.min(dp[level+1][i+1],dp[level+1][i]);
+        // Start from the second last row and go upwards
+        for (int i = triangle.size() - 2; i >= 0; i--) {
+            for (int j = 0; j < triangle.get(i).size(); j++) {
+                int down = triangle.get(i + 1).get(j);
+                int downRight = triangle.get(i + 1).get(j + 1);
+                int newVal = triangle.get(i).get(j) + Math.min(down, downRight);
+                triangle.get(i).set(j, newVal);
             }
         }
-        return dp[0][0];
+        // Top element has the minimum total
+        return triangle.get(0).get(0);
     }
 }
