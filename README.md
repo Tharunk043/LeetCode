@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Tharunk043/LeetCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0605-can-place-flowers](https://github.com/Tharunk043/LeetCode/tree/master/0605-can-place-flowers) |
 | [0609-find-duplicate-file-in-system](https://github.com/Tharunk043/LeetCode/tree/master/0609-find-duplicate-file-in-system) |
+| [0611-valid-triangle-number](https://github.com/Tharunk043/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/Tharunk043/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Tharunk043/LeetCode/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
+| [0611-valid-triangle-number](https://github.com/Tharunk043/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/Tharunk043/LeetCode/tree/master/0907-koko-eating-bananas) |
 | [1262-online-majority-element-in-subarray](https://github.com/Tharunk043/LeetCode/tree/master/1262-online-majority-element-in-subarray) |
@@ -465,6 +467,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
 | [0506-relative-ranks](https://github.com/Tharunk043/LeetCode/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Tharunk043/LeetCode/tree/master/0561-array-partition) |
+| [0611-valid-triangle-number](https://github.com/Tharunk043/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
@@ -603,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/Tharunk043/LeetCode/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/Tharunk043/LeetCode/tree/master/0561-array-partition) |
 | [0605-can-place-flowers](https://github.com/Tharunk043/LeetCode/tree/master/0605-can-place-flowers) |
+| [0611-valid-triangle-number](https://github.com/Tharunk043/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [1829-maximum-units-on-a-truck](https://github.com/Tharunk043/LeetCode/tree/master/1829-maximum-units-on-a-truck) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Tharunk043/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -639,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0392-is-subsequence) |
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
 | [0481-magical-string](https://github.com/Tharunk043/LeetCode/tree/master/0481-magical-string) |
+| [0611-valid-triangle-number](https://github.com/Tharunk043/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tharunk043/LeetCode/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/Tharunk043/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1454-remove-palindromic-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
