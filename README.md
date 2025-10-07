@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Tharunk043/LeetCode/tree/master/0645-set-mismatch) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0722-remove-comments](https://github.com/Tharunk043/LeetCode/tree/master/0722-remove-comments) |
+| [0724-find-pivot-index](https://github.com/Tharunk043/LeetCode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Tharunk043/LeetCode/tree/master/0747-min-cost-climbing-stairs) |
 | [0749-shortest-completing-word](https://github.com/Tharunk043/LeetCode/tree/master/0749-shortest-completing-word) |
 | [0777-toeplitz-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0777-toeplitz-matrix) |
@@ -265,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Tharunk043/LeetCode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/Tharunk043/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
+| [0724-find-pivot-index](https://github.com/Tharunk043/LeetCode/tree/master/0724-find-pivot-index) |
 | [1473-find-the-longest-substring-containing-vowels-in-even-counts](https://github.com/Tharunk043/LeetCode/tree/master/1473-find-the-longest-substring-containing-vowels-in-even-counts) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [1983-maximum-population-year](https://github.com/Tharunk043/LeetCode/tree/master/1983-maximum-population-year) |
