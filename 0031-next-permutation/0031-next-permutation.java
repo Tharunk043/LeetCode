@@ -9,18 +9,20 @@ class Solution {
             while(j>=0 && nums[j]<=nums[i]){
                 j--;
             }
-            int temp = nums[i];
-            nums[i] = nums[j];
-            nums[j] = temp;
+            swap(nums,i,j);
         }
-        reverse(i+1,nums);
+        reverse(nums,i+1);
+
     }
-    void reverse(int start,int[] nums){
-        int end = nums.length-1;
-        while(start<=end){
-            int temp = nums[start];
-            nums[start] = nums[end];
-            nums[end] = temp;
+    void swap(int[] nums,int start,int end){
+        int temp = nums[start];
+        nums[start] = nums[end];
+        nums[end] = temp;
+    }
+    void reverse(int nums[],int start){
+        int end =nums.length-1;
+        while(start<end){
+            swap(nums,start,end);
             start++;
             end--;
         }
