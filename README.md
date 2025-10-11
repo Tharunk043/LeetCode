@@ -154,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
 | [3330-modify-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3330-modify-the-matrix) |
 | [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Tharunk043/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Tharunk043/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
@@ -228,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2777-find-the-distinct-difference-array](https://github.com/Tharunk043/LeetCode/tree/master/2777-find-the-distinct-difference-array) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tharunk043/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3363-most-frequent-ids](https://github.com/Tharunk043/LeetCode/tree/master/3363-most-frequent-ids) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3678-design-task-manager](https://github.com/Tharunk043/LeetCode/tree/master/3678-design-task-manager) |
 | [3797-design-spreadsheet](https://github.com/Tharunk043/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Tharunk043/LeetCode/tree/master/3827-implement-router) |
@@ -371,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Tharunk043/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Tharunk043/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2510-maximum-deletions-on-a-string) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 ## Memoization
 |  |
@@ -454,6 +457,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/Tharunk043/LeetCode/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2060-merge-bsts-to-create-single-bst](https://github.com/Tharunk043/LeetCode/tree/master/2060-merge-bsts-to-create-single-bst) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3827-implement-router](https://github.com/Tharunk043/LeetCode/tree/master/3827-implement-router) |
 ## Sorting
 |  |
@@ -491,6 +495,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tharunk043/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tharunk043/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -511,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2486-most-frequent-even-element](https://github.com/Tharunk043/LeetCode/tree/master/2486-most-frequent-even-element) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/Tharunk043/LeetCode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3872-find-most-frequent-vowel-and-consonant](https://github.com/Tharunk043/LeetCode/tree/master/3872-find-most-frequent-vowel-and-consonant) |
 ## Backtracking
@@ -661,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1454-remove-palindromic-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/1454-remove-palindromic-subsequences) |
 | [1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Tharunk043/LeetCode/tree/master/1566-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence) |
 | [2634-minimum-common-value](https://github.com/Tharunk043/LeetCode/tree/master/2634-minimum-common-value) |
+| [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 ## Combinatorics
 |  |
 | ------- |
