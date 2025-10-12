@@ -165,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 | [3797-design-spreadsheet](https://github.com/Tharunk043/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Tharunk043/LeetCode/tree/master/3827-implement-router) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Hash Table
 |  |
 | ------- |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tharunk043/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3817-maximum-containers-on-a-ship](https://github.com/Tharunk043/LeetCode/tree/master/3817-maximum-containers-on-a-ship) |
 | [3830-find-closest-person](https://github.com/Tharunk043/LeetCode/tree/master/3830-find-closest-person) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 | [3879-find-minimum-log-transportation-cost](https://github.com/Tharunk043/LeetCode/tree/master/3879-find-minimum-log-transportation-cost) |
 ## Dynamic Programming
 |  |
@@ -375,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2510-maximum-deletions-on-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2510-maximum-deletions-on-a-string) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Memoization
 |  |
 | ------- |
@@ -420,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tharunk043/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tharunk043/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -674,6 +678,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/Tharunk043/LeetCode/tree/master/0062-unique-paths) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tharunk043/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tharunk043/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Stack
 |  |
 | ------- |
@@ -1143,4 +1148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tharunk043/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3462-vowels-game-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Bitmask
+|  |
+| ------- |
+| [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
