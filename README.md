@@ -382,6 +382,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1764-maximum-repeating-substring](https://github.com/Tharunk043/LeetCode/tree/master/1764-maximum-repeating-substring) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Tharunk043/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2510-maximum-deletions-on-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2510-maximum-deletions-on-a-string) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
 | [2837-minimum-operations-to-make-the-integer-zero](https://github.com/Tharunk043/LeetCode/tree/master/2837-minimum-operations-to-make-the-integer-zero) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tharunk043/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 ## Divide and Conquer
@@ -620,6 +622,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tharunk043/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Tharunk043/LeetCode/tree/master/3194-find-words-containing-character) |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3396-valid-word](https://github.com/Tharunk043/LeetCode/tree/master/3396-valid-word) |
 | [3462-vowels-game-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -1163,5 +1166,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bitmask
 |  |
 | ------- |
+| [3233-maximize-the-number-of-partitions-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3233-maximize-the-number-of-partitions-after-operations) |
 | [3851-find-sum-of-array-product-of-magical-sequences](https://github.com/Tharunk043/LeetCode/tree/master/3851-find-sum-of-array-product-of-magical-sequences) |
 <!---LeetCode Topics End-->
