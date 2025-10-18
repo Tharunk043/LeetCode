@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3533-snake-in-matrix](https://github.com/Tharunk043/LeetCode/tree/master/3533-snake-in-matrix) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Tharunk043/LeetCode/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/Tharunk043/LeetCode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3708-zigzag-grid-traversal-with-skip](https://github.com/Tharunk043/LeetCode/tree/master/3708-zigzag-grid-traversal-with-skip) |
 | [3733-length-of-longest-v-shaped-diagonal-segment](https://github.com/Tharunk043/LeetCode/tree/master/3733-length-of-longest-v-shaped-diagonal-segment) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Tharunk043/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
@@ -511,6 +512,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tharunk043/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3321-type-of-triangle](https://github.com/Tharunk043/LeetCode/tree/master/3321-type-of-triangle) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Tharunk043/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Tharunk043/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
 ## Counting
 |  |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 ## Two Pointers
 |  |
 | ------- |
