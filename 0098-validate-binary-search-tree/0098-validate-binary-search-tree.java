@@ -19,11 +19,11 @@ class Solution {
     }
     boolean helper(TreeNode root,long min,long max){
         if(root==null) return true;
-        if(root.val<=min || root.val>=max){
+        if(root.val>=max || root.val<=min){
             return false;
         }
-        boolean leftans = helper(root.left,min,root.val);
-        boolean rightans = helper(root.right,root.val,max);
-        return leftans && rightans;
+        if(min>max) return false;
+        return helper(root.left,min,root.val) && helper(root.right,root.val,max);
     }
+    
 }
