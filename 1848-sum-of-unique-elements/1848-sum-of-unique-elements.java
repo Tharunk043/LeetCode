@@ -1,14 +1,14 @@
 class Solution {
     public int sumOfUnique(int[] nums) {
-        int sum = 0 ;
-        Map<Integer,Integer> map = new HashMap<>();
+        int[] freq = new int[101];
         for(int i:nums){
-            if(map.containsKey(i)) map.put(i,map.get(i)+1);
-            else map.put(i,1);
+            freq[i]++;
         }
-        for(int i:map.keySet()){
-            if(map.get(i)==1) sum+=i;
+        int sum = 0;
+        for(int i = 0;i<freq.length;i++){
+            if(freq[i]==1) sum +=i;
         }
         return sum;
+        
     }
 }
