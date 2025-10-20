@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Tharunk043/LeetCode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2023-design-movie-rental-system](https://github.com/Tharunk043/LeetCode/tree/master/2023-design-movie-rental-system) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tharunk043/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tharunk043/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Tharunk043/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tharunk043/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2269-count-elements-with-strictly-smaller-and-greater-elements](https://github.com/Tharunk043/LeetCode/tree/master/2269-count-elements-with-strictly-smaller-and-greater-elements) |
@@ -610,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/Tharunk043/LeetCode/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 | [2010-check-if-word-equals-summation-of-two-words](https://github.com/Tharunk043/LeetCode/tree/master/2010-check-if-word-equals-summation-of-two-words) |
 | [2099-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Tharunk043/LeetCode/tree/master/2099-number-of-strings-that-appear-as-substrings-in-word) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tharunk043/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Tharunk043/LeetCode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/Tharunk043/LeetCode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tharunk043/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
@@ -1023,6 +1025,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0566-reshape-the-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0566-reshape-the-matrix) |
 | [0898-transpose-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0898-transpose-matrix) |
 | [1382-calculate-amount-paid-in-taxes](https://github.com/Tharunk043/LeetCode/tree/master/1382-calculate-amount-paid-in-taxes) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Tharunk043/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Tharunk043/LeetCode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tharunk043/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tharunk043/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
