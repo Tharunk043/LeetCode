@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0498-diagonal-traverse](https://github.com/Tharunk043/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0506-relative-ranks](https://github.com/Tharunk043/LeetCode/tree/master/0506-relative-ranks) |
 | [0525-contiguous-array](https://github.com/Tharunk043/LeetCode/tree/master/0525-contiguous-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tharunk043/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0542-01-matrix](https://github.com/Tharunk043/LeetCode/tree/master/0542-01-matrix) |
 | [0546-remove-boxes](https://github.com/Tharunk043/LeetCode/tree/master/0546-remove-boxes) |
 | [0561-array-partition](https://github.com/Tharunk043/LeetCode/tree/master/0561-array-partition) |
@@ -470,6 +471,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0300-longest-increasing-subsequence) |
 | [0441-arranging-coins](https://github.com/Tharunk043/LeetCode/tree/master/0441-arranging-coins) |
 | [0475-heaters](https://github.com/Tharunk043/LeetCode/tree/master/0475-heaters) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Tharunk043/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0611-valid-triangle-number](https://github.com/Tharunk043/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0907-koko-eating-bananas](https://github.com/Tharunk043/LeetCode/tree/master/0907-koko-eating-bananas) |
