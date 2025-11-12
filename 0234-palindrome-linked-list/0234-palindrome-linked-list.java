@@ -13,18 +13,18 @@ class Solution {
         ListNode slow = head;
         ListNode fast = head;
         while(fast!=null && fast.next!=null){
-            slow= slow.next;
+            slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode prev = null;
         ListNode curr = slow;
+        ListNode prev = null;
         while(curr!=null){
             ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
         }
-        ListNode left = head;
+        ListNode left =head;
         ListNode right = prev;
         while(left!=null && right!=null){
             if(left.val!=right.val) return false;
@@ -32,6 +32,5 @@ class Solution {
             right = right.next;
         }
         return true;
-
     }
 }
