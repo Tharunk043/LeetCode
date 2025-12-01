@@ -1,7 +1,7 @@
 class Solution {
     public int[][] insert(int[][] intervals, int[] newInterval) {
         int[][] res = new int[intervals.length+1][2];
-        int i=0,j = 0;
+        int i = 0;int j=0;
         while(i<intervals.length && intervals[i][1]<newInterval[0]){
             res[j++] = intervals[i++];
         }
@@ -11,7 +11,7 @@ class Solution {
         }
         res[j++] = newInterval;
         while(i<intervals.length){
-            res[j++]= intervals[i++];
+            res[j++] = intervals[i++];
         }
         return Arrays.copyOf(res,j);
     }
