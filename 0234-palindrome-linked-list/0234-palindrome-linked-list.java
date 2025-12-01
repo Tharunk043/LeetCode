@@ -16,20 +16,23 @@ class Solution {
             slow = slow.next;
             fast = fast.next.next;
         }
-        ListNode curr = slow;
         ListNode prev = null;
+        ListNode curr = slow;
         while(curr!=null){
             ListNode next = curr.next;
             curr.next = prev;
             prev = curr;
             curr = next;
         }
-        ListNode left =head;
+        ListNode left = head;
         ListNode right = prev;
         while(left!=null && right!=null){
-            if(left.val!=right.val) return false;
-            left = left.next;
-            right = right.next;
+            if(left.val!=right.val){
+                return false;
+            }else{
+                left= left.next;
+                right = right.next;
+            }
         }
         return true;
     }
