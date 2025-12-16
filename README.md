@@ -337,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2507-number-of-common-factors](https://github.com/Tharunk043/LeetCode/tree/master/2507-number-of-common-factors) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2857-total-distance-traveled](https://github.com/Tharunk043/LeetCode/tree/master/2857-total-distance-traveled) |
+| [2864-maximum-odd-binary-number](https://github.com/Tharunk043/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Tharunk043/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/Tharunk043/LeetCode/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
@@ -648,6 +649,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tharunk043/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2532-remove-letter-to-equalize-frequency](https://github.com/Tharunk043/LeetCode/tree/master/2532-remove-letter-to-equalize-frequency) |
 | [2727-number-of-senior-citizens](https://github.com/Tharunk043/LeetCode/tree/master/2727-number-of-senior-citizens) |
+| [2864-maximum-odd-binary-number](https://github.com/Tharunk043/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [2887-sort-vowels-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/2887-sort-vowels-in-a-string) |
 | [2977-check-if-a-string-is-an-acronym-of-words](https://github.com/Tharunk043/LeetCode/tree/master/2977-check-if-a-string-is-an-acronym-of-words) |
 | [3194-find-words-containing-character](https://github.com/Tharunk043/LeetCode/tree/master/3194-find-words-containing-character) |
@@ -679,6 +681,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2520-using-a-robot-to-print-the-lexicographically-smallest-string](https://github.com/Tharunk043/LeetCode/tree/master/2520-using-a-robot-to-print-the-lexicographically-smallest-string) |
 | [2661-smallest-missing-non-negative-integer-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/2661-smallest-missing-non-negative-integer-after-operations) |
 | [2730-maximum-or](https://github.com/Tharunk043/LeetCode/tree/master/2730-maximum-or) |
+| [2864-maximum-odd-binary-number](https://github.com/Tharunk043/LeetCode/tree/master/2864-maximum-odd-binary-number) |
 | [3192-maximum-xor-product](https://github.com/Tharunk043/LeetCode/tree/master/3192-maximum-xor-product) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Tharunk043/LeetCode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/Tharunk043/LeetCode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
