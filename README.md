@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/Tharunk043/LeetCode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/Tharunk043/LeetCode/tree/master/0076-minimum-window-substring) |
 | [0115-distinct-subsequences](https://github.com/Tharunk043/LeetCode/tree/master/0115-distinct-subsequences) |
+| [0125-valid-palindrome](https://github.com/Tharunk043/LeetCode/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/Tharunk043/LeetCode/tree/master/0127-word-ladder) |
 | [0139-word-break](https://github.com/Tharunk043/LeetCode/tree/master/0139-word-break) |
 | [0165-compare-version-numbers](https://github.com/Tharunk043/LeetCode/tree/master/0165-compare-version-numbers) |
@@ -697,6 +698,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Tharunk043/LeetCode/tree/master/0042-trapping-rain-water) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Tharunk043/LeetCode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/Tharunk043/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Tharunk043/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Tharunk043/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Tharunk043/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Tharunk043/LeetCode/tree/master/0143-reorder-list) |
