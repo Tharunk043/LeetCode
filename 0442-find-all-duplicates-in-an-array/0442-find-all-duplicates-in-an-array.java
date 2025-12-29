@@ -1,18 +1,10 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
-        List<Integer> res = new ArrayList<>();
-        HashMap<Integer,Integer> map = new HashMap<>();
-        for(int i:nums){
-            if(map.containsKey(i)){
-                map.put(i,map.get(i)+1);
-            }else{
-                map.put(i,1);
-            }
-        }
-        for(int i:map.keySet()){
-            if(map.get(i)>1){
-                res.add(i);
-            }
+        List<Integer> res =new ArrayList<>();
+        for(int i = 0;i<nums.length;i++){
+            int ind = Math.abs(nums[i])-1;
+            if(nums[ind]<0) res.add(Math.abs(nums[i]));
+            else nums[ind] = -nums[ind];
         }
         return res;
     }
