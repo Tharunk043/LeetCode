@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Tharunk043/LeetCode/tree/master/0268-missing-number) |
 | [0299-bulls-and-cows](https://github.com/Tharunk043/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Tharunk043/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0409-longest-palindrome](https://github.com/Tharunk043/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Tharunk043/LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -552,6 +553,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Tharunk043/LeetCode/tree/master/0229-majority-element-ii) |
 | [0299-bulls-and-cows](https://github.com/Tharunk043/LeetCode/tree/master/0299-bulls-and-cows) |
 | [0347-top-k-frequent-elements](https://github.com/Tharunk043/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0778-reorganize-string](https://github.com/Tharunk043/LeetCode/tree/master/0778-reorganize-string) |
 | [0837-most-common-word](https://github.com/Tharunk043/LeetCode/tree/master/0837-most-common-word) |
 | [1297-maximum-number-of-balloons](https://github.com/Tharunk043/LeetCode/tree/master/1297-maximum-number-of-balloons) |
@@ -605,6 +607,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/Tharunk043/LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/Tharunk043/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Tharunk043/LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/Tharunk043/LeetCode/tree/master/0409-longest-palindrome) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -1125,6 +1128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/Tharunk043/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Tharunk043/LeetCode/tree/master/0239-sliding-window-maximum) |
+| [0387-first-unique-character-in-a-string](https://github.com/Tharunk043/LeetCode/tree/master/0387-first-unique-character-in-a-string) |
 | [0954-maximum-sum-circular-subarray](https://github.com/Tharunk043/LeetCode/tree/master/0954-maximum-sum-circular-subarray) |
 | [0969-number-of-recent-calls](https://github.com/Tharunk043/LeetCode/tree/master/0969-number-of-recent-calls) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Tharunk043/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
