@@ -8,6 +8,6 @@ class Solution {
        for(char c:t.toCharArray()){
             tcount[c-'a']++;
        }
-       return Arrays.equals(tcount,scount);
+       return Arrays.equals(scount,tcount);
     }
 }
