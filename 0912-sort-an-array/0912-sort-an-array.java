@@ -8,10 +8,10 @@ class Solution {
             int mid = (lb+ub)/2;
             mergesort(nums,lb,mid);
             mergesort(nums,mid+1,ub);
-            merge(nums,mid,lb,ub);
+            merge(nums,lb,mid,ub);
         }
     }
-    void merge(int [] nums,int mid,int low,int high){
+    void merge(int[] nums,int low,int mid ,int high){
         int[] temp = new int[high-low+1];
         int left = low;
         int right = mid+1;
@@ -33,5 +33,4 @@ class Solution {
             nums[low+i] = temp[i];
         }
     }
-
 }
