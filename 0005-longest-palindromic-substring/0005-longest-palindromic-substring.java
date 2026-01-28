@@ -1,15 +1,15 @@
 class Solution {
     public String longestPalindrome(String s) {
-        String longest ="";
+        String longest = "";
         for(int i = 0;i<s.length();i++){
             String odd = expand(s,i,i);
             String even = expand(s,i,i+1);
-            String curr = odd.length()>even.length()?odd:even;
+            String curr = even.length()>odd.length()?even:odd;
             longest = curr.length()>longest.length()?curr:longest;
         }
         return longest;
     }
-    String expand(String s,int left,int right){
+    public String expand(String s,int left,int right){
         while(left>=0 && right<s.length() && s.charAt(left)==s.charAt(right)){
             left--;
             right++;
