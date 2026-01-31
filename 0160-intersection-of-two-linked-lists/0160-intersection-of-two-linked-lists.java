@@ -14,8 +14,8 @@ public class Solution {
         ListNode pa = headA;
         ListNode pb = headB;
         while(pa!=pb){
-            pa = (pa!=null)?pa.next:headB;
-            pb  = (pb!=null)?pb.next:headA;
+            pa =(pa==null)?headB:pa.next;
+            pb = (pb==null)?headA:pb.next;
         }
         return pa;
     }
