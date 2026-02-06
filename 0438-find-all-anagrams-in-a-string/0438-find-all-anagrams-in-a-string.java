@@ -1,8 +1,8 @@
 class Solution {
     public List<Integer> findAnagrams(String s, String p) {
-        List<Integer> res = new ArrayList<>();
         int[] scount = new int[26];
         int[] pcount = new int[26];
+        List<Integer> res = new ArrayList<>();
         for(char c:p.toCharArray()){
             pcount[c-'a']++;
         }
