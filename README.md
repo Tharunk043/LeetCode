@@ -334,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1635-number-of-good-pairs](https://github.com/Tharunk043/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/Tharunk043/LeetCode/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2174-next-greater-numerically-balanced-number](https://github.com/Tharunk043/LeetCode/tree/master/2174-next-greater-numerically-balanced-number) |
+| [2235-add-two-integers](https://github.com/Tharunk043/LeetCode/tree/master/2235-add-two-integers) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Tharunk043/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/Tharunk043/LeetCode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Tharunk043/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
