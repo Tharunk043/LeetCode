@@ -4,7 +4,7 @@ class Solution {
         int rm = 0;
         int left = 0;
         int right = height.length-1;
-        int water = 0;
+        int water=0;
         while(left<right){
             if(height[left]<height[right]){
                 lm = Math.max(lm,height[left]);
