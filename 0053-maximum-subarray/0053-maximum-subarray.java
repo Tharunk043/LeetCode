@@ -3,8 +3,8 @@ class Solution {
         int curr = nums[0];
         int max = nums[0];
         for(int i = 1;i<nums.length;i++){
-            curr = Math.max(nums[i],curr+nums[i]);
-            max = Math.max(curr,max);
+            curr= Math.max(nums[i],curr+nums[i]);
+            max =Math.max(curr,max);
         }
         return max;
     }
