@@ -20,10 +20,10 @@ class Solution {
         queue.offer(root);
         int depth = 1;
         while(!queue.isEmpty()){
-            int ls = queue.size();
-            for(int i = 0;i<ls;i++){
+            int qs = queue.size();
+            for(int i = 0;i<qs;i++){
                 TreeNode curr = queue.poll();
-                if(curr.left==null && curr.right== null) return depth;
+                if(curr.left==null & curr.right==null) return depth;
                 if(curr.left!=null) queue.offer(curr.left);
                 if(curr.right!=null) queue.offer(curr.right);
             }
